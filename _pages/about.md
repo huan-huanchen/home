@@ -19,6 +19,7 @@ I work in the field of applied cryptography. I am particularly interested in lat
 
 Publications
 ======
+
 * <span style="font-weight: 300;"> [SIGMETRICS'25] </span> Rui Wang, Xingkai Wang, Huanhuan Chen, Jérémie Decouchant, Stjepan Picek, Nikolaos Laoutaris, Kaitai Liang: MUDGUARD: Taming Malicious Majorities in Federated Learning using Privacy-Preserving Byzantine-Robust Clustering. [ACM SIGMETRICS 2025](https://dl.acm.org/doi/abs/10.1145/3700422).
 * <span style="font-weight: 300;"> [ESORICS'24] </span> Tjard Jan Langhout, Huanhuan Chen, Kaitai Liang: File-Injection Attacks on Searchable Encryption, Based on Binomial Structures. [European Symposium on Research in Computer Security 2024](https://link.springer.com/chapter/10.1007/978-3-031-70896-1_21).
 * <span style="font-weight: 300;"> [ESORICS'24]  </span> Björn Ho, Huanhuan Chen, Zeshun Shi, Kaitai Liang: Similar Data is Powerful: Enhancing Inference Attacks on SSE with Volume Leakages. [European Symposium on Research in Computer Security 2024](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_6).
@@ -26,4 +27,8 @@ Publications
 * <span style="font-weight: 300;"> [ASIACRYPT'23]  </span>  Huanhuan Chen, Yao Jiang Galteland, Kaitai Liang: CCA-1 secure updatable encryption with adaptive security. [Advances in Cryptology – ASIACRYPT 2023](https://link.springer.com/chapter/10.1007/978-981-99-8733-7_12).
 * <span style="font-weight: 300;"> [ESORICS'22]  </span> Steven Lambregts, Huanhuan Chen, Jianting Ning, Kaitai Liang: VAL: Volume and Access Pattern Leakage-Abuse Attack with Leaked Documents. [European Symposium on Research in Computer Security 2022](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_32).
 * <span style="font-weight: 300;"> [ESORICS'22]  </span> Huanhuan Chen, Shihui Fu, Kaitai Liang: No-Directional and Backward-Leak Uni-Directional Updatable Encryption Are Equivalent. [European Symposium on Research in Computer Security 2022](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_19).
-* <span style="font-weight: 300;"> [CYSARM‘21]  </span> Kevin Tjiam, Rui Wang, Huanhuan Chen, Kaitai Liang: Your smart contracts are not secure: investigating arbitrageurs and oracle manipulators in Ethereum. [Proceedings of the 3rd Workshop on Cyber-Security Arms Race](https://dl.acm.org/doi/10.1145/3474374.3486916).
+* <span style="font-weight: 300;"> [CYSARM‘21]  </span> Kevin Tjiam, Rui Wang, Huanhuan Chen, Kaitai Liang: Your smart contracts are not secure: investigating arbitrageurs and oracle manipulators in Ethereum. [Proceedings of the 3rd Workshop on Cyber-Security Arms Race 2021](https://dl.acm.org/doi/10.1145/3474374.3486916).
+
+Preprint
+------
+* Huanhuan Chen, Mauro Conti, Thanassis Giannetsos, Kaitai Liang: Amortized Bootstrapping for Arbitrary Function Evaluation, within A Polynomial Modulus.
