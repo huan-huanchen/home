@@ -33,8 +33,21 @@ Preprint
 ------
 * Huanhuan Chen, Mauro Conti, Thanassis Giannetsos, Kaitai Liang: Amortized Bootstrapping for Arbitrary Function Evaluation, within A Polynomial Modulus.
 
-Teaching Assistant
+Teaching Assistant and Mentoring
 ======
+TA
+------
 * CSE3230 Algebra and Cryptography, BSc (2022/23 Q3, 2023/24 Q3).
 * IN4191 Security and Cryptography, MSc (2021/22 Q1).
 
+Co-supervising
+------
+* <span style="font-weight: 300;"> [Zero-Knowledge Proofs]  </span> Lesley Franschman(TU Delft, MSc 2024): [The Vesper Protocol: Leveraging Zero-Knowledge Proofs and
+SGX Enclaves in Hyperledger Fabric Smart Contracts](https://repository.tudelft.nl/record/uuid:24932463-ea3d-449e-b04f-03e381da80f3).
+*  <span style="font-weight: 300;"> [Attacks on Searchable Encryption]  </span> 
+   * Tjard Langhout (MSc 2024): [File-Injection Attacks on Searchable Encryption, Based on Binomial Structures](https://repository.tudelft.nl/record/uuid:4bac20f0-a41f-4788-ad0d-1cf853843185).
+   * Björn Ho (MSc 2023): [Searchable Symmetric Encryption Attacks](https://repository.tudelft.nl/record/uuid:63c93189-3cee-48d3-b02b-26d79f063ef0)
+   * Hakan Ilbas (MSc 2023), [Attacks on Searchable Symmetric Encryption Systems: Revisiting Similardata and File Injection Attacks](https://repository.tudelft.nl/record/uuid:dc12e46e-0a59-448e-9cef-14d76ed9ebb7)
+   * Jeroen Thomas (MSc 2022), [SSE Is Not As Secure As It Looks](https://repository.tudelft.nl/record/uuid:180f1c51-6f6c-470f-a3ff-58e4c7c4efd3)
+   * Steven Lambregts (MSc 2022), [Revisit Attacks on Searchable Symmetric Encryption](https://repository.tudelft.nl/record/uuid:ec72afb6-ad96-4357-94da-ad2c7bb2a6fd). 
+ 
