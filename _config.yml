@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huanhuan Chen / Academic Homepage "
+title                    : "Huanhuan Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Huanhuan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Lattice-Based Cryptography,\n Fully Homomorphic Encryption,\n Applied Cryptography"
   location         : "Delft"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/huanhuan-chen-3a9b75222/?originalSubdomain=nl"
+  linkedin         : "https://www.linkedin.com/in/huanhuan-chen-3a9b75222/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
