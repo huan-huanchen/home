@@ -19,7 +19,7 @@ I work in the field of applied cryptography. I am particularly interested in lat
 
 Publications
 ======
-* List item one 1
+* <span style="font-weight: 300;"> [SIGMETRICS'25] </span> Rui Wang, Xingkai Wang, Huanhuan Chen, Jérémie Decouchant, Stjepan Picek, Nikolaos Laoutaris, Kaitai Liang: MUDGUARD: Taming Malicious Majorities in Federated Learning using Privacy-Preserving Byzantine-Robust Clustering. [ACM SIGMETRICS 2025](https://dl.acm.org/doi/pdf/10.1145/3700422)
   * List item one 2 [fe]
   * List item one 3
 * List item one 4
