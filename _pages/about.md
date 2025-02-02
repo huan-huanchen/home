@@ -17,3 +17,9 @@ I work in the field of applied cryptography. I am particularly interested in lat
 
 <span style="color: red;">I actively seek opportunities in the 2024-2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out!</span>
 
+Publications
+======
+* List item one 1
+  * List item one 2 [fe]
+  * List item one 3
+* List item one 4
