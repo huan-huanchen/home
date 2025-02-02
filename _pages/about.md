@@ -32,3 +32,9 @@ Publications
 Preprint
 ------
 * Huanhuan Chen, Mauro Conti, Thanassis Giannetsos, Kaitai Liang: Amortized Bootstrapping for Arbitrary Function Evaluation, within A Polynomial Modulus.
+
+Teaching Assistant
+======
+* CSE3230 Algebra and Cryptography, BSc (2022/23 Q3, 2023/24 Q3).
+* IN4191 Security and Cryptography, MSc (2021/22 Q1).
+
