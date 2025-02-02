@@ -36,12 +36,12 @@ Preprint
 Teaching Assistant and Mentoring
 ======
 
-## TA
+&nbsp;&nbsp;&nbsp;&nbsp;TA
 ------
 * CSE3230 Algebra and Cryptography, BSc (2022/23 Q3, 2023/24 Q3).
 * IN4191 Security and Cryptography, MSc (2021/22 Q1).
 
-## Co-supervising
+&nbsp;&nbsp;&nbsp;&nbsp;Co-supervising
 ------
 * <span style="font-weight: 300;"> [Zero-Knowledge Proofs]  </span> Lesley Franschman(TU Delft, MSc 2024): [The Vesper Protocol: Leveraging Zero-Knowledge Proofs and
 SGX Enclaves in Hyperledger Fabric Smart Contracts](https://repository.tudelft.nl/record/uuid:24932463-ea3d-449e-b04f-03e381da80f3).
