@@ -41,20 +41,29 @@ Teaching Assistant and Mentoring
 * CSE3230 Algebra and Cryptography, BSc (2022/23 Q3, 2023/24 Q3).
 * IN4191 Security and Cryptography, MSc (2021/22 Q1).
 
-&nbsp;&nbsp;&nbsp;&nbsp;Co-supervising
+&nbsp;&nbsp;&nbsp;&nbsp;Co-supervising (TU Delft)
 ------
-* <span style="font-weight: 300;"> [Zero-Knowledge Proofs]  </span> 
-   * Lesley Franschman(TU Delft, MSc 2024): [The Vesper Protocol: Leveraging Zero-Knowledge Proofs and
-SGX Enclaves in Hyperledger Fabric Smart Contracts](https://repository.tudelft.nl/record/uuid:24932463-ea3d-449e-b04f-03e381da80f3).
-*  <span style="font-weight: 300;"> [Attacks on Searchable Encryption]  </span> 
-   * Tjard Langhout (TU Delft, MSc 2024): [File-Injection Attacks on Searchable Encryption, Based on Binomial Structures](https://repository.tudelft.nl/record/uuid:4bac20f0-a41f-4788-ad0d-1cf853843185).
-   * Björn Ho (TU Delft, MSc 2023): [Searchable Symmetric Encryption Attacks](https://repository.tudelft.nl/record/uuid:63c93189-3cee-48d3-b02b-26d79f063ef0)
-   * Hakan Ilbas (MSc 2023), [Attacks on Searchable Symmetric Encryption Systems: Revisiting Similardata and File Injection Attacks](https://repository.tudelft.nl/record/uuid:dc12e46e-0a59-448e-9cef-14d76ed9ebb7)
-   * Jeroen Thomas (MSc 2022), [SSE Is Not As Secure As It Looks](https://repository.tudelft.nl/record/uuid:180f1c51-6f6c-470f-a3ff-58e4c7c4efd3)
+* Zero-Knowledge Proofs 
+   * Lesley Franschman(MSc 2024): [The Vesper Protocol: Leveraging Zero-Knowledge Proofs and SGX Enclaves in Hyperledger Fabric Smart Contracts](https://repository.tudelft.nl/record/uuid:24932463-ea3d-449e-b04f-03e381da80f3).
+*  Attacks on Searchable Encryption 
+   * Tjard Langhout (MSc 2024): [File-Injection Attacks on Searchable Encryption, Based on Binomial Structures](https://repository.tudelft.nl/record/uuid:4bac20f0-a41f-4788-ad0d-1cf853843185).
+   * Björn Ho (MSc 2023): [Searchable Symmetric Encryption Attacks](https://repository.tudelft.nl/record/uuid:63c93189-3cee-48d3-b02b-26d79f063ef0).
+   * Hakan Ilbas (MSc 2023), [Attacks on Searchable Symmetric Encryption Systems: Revisiting Similardata and File Injection Attacks](https://repository.tudelft.nl/record/uuid:dc12e46e-0a59-448e-9cef-14d76ed9ebb7).
+   * Jeroen Thomas (MSc 2022), [SSE Is Not As Secure As It Looks](https://repository.tudelft.nl/record/uuid:180f1c51-6f6c-470f-a3ff-58e4c7c4efd3).
    * Steven Lambregts (MSc 2022), [Revisit Attacks on Searchable Symmetric Encryption](https://repository.tudelft.nl/record/uuid:ec72afb6-ad96-4357-94da-ad2c7bb2a6fd). 
 *  <span style="font-weight: 300;"> [Post-Quantum Crytogrphy]  </span> 
    * Matei Cristea-Enache (BSc 2021): [Investigation on post-quantum digital signature systems based on multivariate equations](https://repository.tudelft.nl/record/uuid:be8bd507-09e4-4b45-a137-aab96c5885cf).
    * Alexandra Feldman (BSc 2021): [Investigation on lattices- and code-based post-quantum signature cryptosystems](https://repository.tudelft.nl/record/uuid:411690d3-d879-4db5-ab77-a42eaf543417).
-   * Lola Dekhuijzen (BSc 2021): [A Comparison of Post-Quantum Code-Based Cryptosytems](https://repository.tudelft.nl/record/uuid:32a102cb-bb48-4f95-8a80-c687700d0443)
+   * Lola Dekhuijzen (BSc 2021): [A Comparison of Post-Quantum Code-Based Cryptosytems](https://repository.tudelft.nl/record/uuid:32a102cb-bb48-4f95-8a80-c687700d0443).
     
- 
+Summer School
+======
+* [Summer school on Cryptography. Ruhr University Bochum](https://hgi.rub.de/en/news/newsarchiv/hginews/summer-school-cryptb-it-2024-focus-on-cryptography), Germany, August 26-30, 2024.
+* [COSIC Course on Cryptography and Cyber Security](https://www.esat.kuleuven.be/cosic/events/cosic-course/). KU Leuven, Belgium, July 1-4, 2024.
+* [Summer School on real-world crypto and privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/). Vodice, Croatia, June 3-7, 2024.
+* [Summer School in Post-Quantum Cryptography](https://www.inf.elte.hu/en/content/summer-school-in-post-quantum-cryptography.e.1122). Eötvös Loránd University, Budapest, Hungary, August 1 – 5, 2022.
+* [Foundations and Applications of Lattice-based Cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography). ICMS, Bayes Centre, Edinburgh, Britain, July 25 - 28, 2022 (online).
+
+Visiting
+======
+* University of Padua. Host: [Prof. Mauro Conti](https://www.math.unipd.it/~conti/), October - November 2023.
