@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huanhuan Chen test "
+title                    : "Huanhuan Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.PNG"
+  avatar           : "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/269843857_138316471913902_3407685988911050926_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=t0OOWeJWYL4Q7kNvgF87J5c&_nc_zt=23&_nc_ht=scontent-ams4-1.xx&_nc_gid=AyDQ24-nYcIyM-J2UG1cTU0&oh=00_AYD9HHBYB1EzFC7sn97U9FFaTqTsN8denlgSPEb1a7GsYw&oe=67A68F91"
   name             : " "
   pronouns         : # example: "she/her"  
   bio              : "Lattice-Based Cryptography,\n Fully Homomorphic Encryption,\n Applied Cryptography"
