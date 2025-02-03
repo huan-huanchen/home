@@ -13,9 +13,9 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://huan-huanchen.github.io/home/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : " " # the subpath of your site, e.g. "/blog"
 repository               :  "https://huan-huanchen.github.io/home/" #"academicpages/academicpages.github.io"
-
+# 这个地方的跳转还是有问题，因为自动跳到root上了，不是我自己的
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
