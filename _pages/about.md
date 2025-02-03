@@ -43,7 +43,8 @@ Teaching Assistant and Mentoring
 
 &nbsp;&nbsp;&nbsp;&nbsp;Co-supervising
 ------
-* <span style="font-weight: 300;"> [Zero-Knowledge Proofs]  </span> Lesley Franschman(TU Delft, MSc 2024): [The Vesper Protocol: Leveraging Zero-Knowledge Proofs and
+* <span style="font-weight: 300;"> [Zero-Knowledge Proofs]  </span> 
+   * Lesley Franschman(TU Delft, MSc 2024): [The Vesper Protocol: Leveraging Zero-Knowledge Proofs and
 SGX Enclaves in Hyperledger Fabric Smart Contracts](https://repository.tudelft.nl/record/uuid:24932463-ea3d-449e-b04f-03e381da80f3).
 *  <span style="font-weight: 300;"> [Attacks on Searchable Encryption]  </span> 
    * Tjard Langhout (TU Delft, MSc 2024): [File-Injection Attacks on Searchable Encryption, Based on Binomial Structures](https://repository.tudelft.nl/record/uuid:4bac20f0-a41f-4788-ad0d-1cf853843185).
@@ -51,4 +52,9 @@ SGX Enclaves in Hyperledger Fabric Smart Contracts](https://repository.tudelft.n
    * Hakan Ilbas (MSc 2023), [Attacks on Searchable Symmetric Encryption Systems: Revisiting Similardata and File Injection Attacks](https://repository.tudelft.nl/record/uuid:dc12e46e-0a59-448e-9cef-14d76ed9ebb7)
    * Jeroen Thomas (MSc 2022), [SSE Is Not As Secure As It Looks](https://repository.tudelft.nl/record/uuid:180f1c51-6f6c-470f-a3ff-58e4c7c4efd3)
    * Steven Lambregts (MSc 2022), [Revisit Attacks on Searchable Symmetric Encryption](https://repository.tudelft.nl/record/uuid:ec72afb6-ad96-4357-94da-ad2c7bb2a6fd). 
+*  <span style="font-weight: 300;"> [Post-Quantum Crytogrphy]  </span> 
+   * Matei Cristea-Enache (BSc 2021): [Investigation on post-quantum digital signature systems based on multivariate equations](https://repository.tudelft.nl/record/uuid:be8bd507-09e4-4b45-a137-aab96c5885cf).
+   * Alexandra Feldman (BSc 2021): [Investigation on lattices- and code-based post-quantum signature cryptosystems](https://repository.tudelft.nl/record/uuid:411690d3-d879-4db5-ab77-a42eaf543417).
+   * Lola Dekhuijzen (BSc 2021): [A Comparison of Post-Quantum Code-Based Cryptosytems](https://repository.tudelft.nl/record/uuid:32a102cb-bb48-4f95-8a80-c687700d0443)
+    
  
