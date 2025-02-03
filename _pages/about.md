@@ -29,7 +29,7 @@ Publications
 * <span style="font-weight: 300;"> [ESORICS'22]  </span> Huanhuan Chen, Shihui Fu, Kaitai Liang: No-Directional and Backward-Leak Uni-Directional Updatable Encryption Are Equivalent. [European Symposium on Research in Computer Security 2022](https://link.springer.com/chapter/10.1007/978-3-031-17140-6_19).
 * <span style="font-weight: 300;"> [CYSARM‘21]  </span> Kevin Tjiam, Rui Wang, Huanhuan Chen, Kaitai Liang: Your smart contracts are not secure: investigating arbitrageurs and oracle manipulators in Ethereum. [Proceedings of the 3rd Workshop on Cyber-Security Arms Race 2021](https://dl.acm.org/doi/10.1145/3474374.3486916).
 
-Preprint
+&nbsp;&nbsp;&nbsp;&nbsp; Preprint
 ------
 * Huanhuan Chen, Mauro Conti, Thanassis Giannetsos, Kaitai Liang: Amortized Bootstrapping for Arbitrary Function Evaluation, within A Polynomial Modulus.
 
