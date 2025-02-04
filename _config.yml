@@ -9,39 +9,39 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://huan-huanchen.github.io/home/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : " " # the subpath of your site, e.g. "/blog"
-repository               :  "https://huan-huanchen.github.io/home/" #"academicpages/academicpages.github.io"
-# 这个地方的跳转还是有问题，因为自动跳到root上了，不是我自己的
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/269843857_138316471913902_3407685988911050926_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=t0OOWeJWYL4Q7kNvgF87J5c&_nc_zt=23&_nc_ht=scontent-ams4-1.xx&_nc_gid=AyDQ24-nYcIyM-J2UG1cTU0&oh=00_AYD9HHBYB1EzFC7sn97U9FFaTqTsN8denlgSPEb1a7GsYw&oe=67A68F91"
-  name             : " Huanhuan Chen"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Lattice-Based Cryptography,\n Fully Homomorphic Encryption,\n Applied Cryptography"
-  location         : "Delft, Netherlands"
-  employer         : "Delft University of Technology"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "h.chen-2@tudelft.nl" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=HICokEEAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-1214-1879"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
- # Repositories and software development
+  # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username

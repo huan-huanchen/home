@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Biography ttefst
+Biography
 ======
 
 Hello! I am Huanhuan Chen, a fourth-year Ph.D. student in Computer Science at [Delft University of Technology](https://www.tudelft.nl/en/). I am very fortunate to be advised by [Prof. dr. ir. Inald Lagendijk](https://www.tudelft.nl/staff/r.l.lagendijk/) and [Dr. Kaitai Liang](https://sites.google.com/view/kaitailiang) in the [Cybersecurity group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/cybersecurity) since July 2021.  Before that, I earned my Master’s degree in Mathematics from Nankai University.
