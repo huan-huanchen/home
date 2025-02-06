@@ -55,7 +55,13 @@ Teaching Assistant and Mentoring
    * Matei Cristea-Enache (BSc 2021): [Investigation on post-quantum digital signature systems based on multivariate equations](https://repository.tudelft.nl/record/uuid:be8bd507-09e4-4b45-a137-aab96c5885cf).
    * Alexandra Feldman (BSc 2021): [Investigation on lattices- and code-based post-quantum signature cryptosystems](https://repository.tudelft.nl/record/uuid:411690d3-d879-4db5-ab77-a42eaf543417).
    * Lola Dekhuijzen (BSc 2021): [A Comparison of Post-Quantum Code-Based Cryptosytems](https://repository.tudelft.nl/record/uuid:32a102cb-bb48-4f95-8a80-c687700d0443).
-    
+
+Talks
+======
+* CCA-1 Secure Updatable Encryption with Adaptive Security, Monash SSC Seminar, Monash University, Australia, April 16, 2024 (online).
+
+* Homomorphic Evaluation of Convolutional Neural Networks, University of Padua, Italy, October 25, 2023.
+
 Summer School
 ======
 * [Summer school on Cryptography. Ruhr University Bochum](https://hgi.rub.de/en/news/newsarchiv/hginews/summer-school-cryptb-it-2024-focus-on-cryptography), Germany, August 26-30, 2024.
@@ -63,6 +69,11 @@ Summer School
 * [Summer School on real-world crypto and privacy 2024](https://summerschool-croatia.cs.ru.nl/2024/). Vodice, Croatia, June 3-7, 2024.
 * [Summer School in Post-Quantum Cryptography](https://www.inf.elte.hu/en/content/summer-school-in-post-quantum-cryptography.e.1122). Eötvös Loránd University, Budapest, Hungary, August 1 – 5, 2022.
 * [Foundations and Applications of Lattice-based Cryptography](https://www.icms.org.uk/workshops/2022/foundations-and-applications-lattice-based-cryptography). ICMS, Bayes Centre, Edinburgh, Britain, July 25 - 28, 2022 (online).
+
+Award
+======
+First Prize in the Olympiad in Mathematics and Programming among Universities in
+Heilongjiang Province of China and the Far Eastern Region of Russia, 2013.
 
 Visiting
 ======
