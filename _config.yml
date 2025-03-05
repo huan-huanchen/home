@@ -22,7 +22,7 @@ repository               : "https://huan-huanchen.github.io/home/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://scontent-ams4-1.xx.fbcdn.net/v/t39.30808-6/269843857_138316471913902_3407685988911050926_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Q_118Qkm-uEQ7kNvgE9OqPL&_nc_zt=23&_nc_ht=scontent-ams4-1.xx&_nc_gid=AnIrO2C4z98OVyO1RCt18b9&oh=00_AYDoEffsed_axMzMTnSodhOKMTxyAGtU75b4DUXB0rhT6A&oe=67B2DD91"
+  avatar           : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=HICokEEAAAAJ&citpid=1"
   name             : "Huanhuan Chen"
   pronouns         : # example: "she/her"  
   bio              : "Lattice-Based Cryptography,\n Fully Homomorphic Encryption,\n Applied Cryptography"
