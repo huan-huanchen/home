@@ -15,7 +15,6 @@ Hello! I am Huanhuan Chen, a fourth-year Ph.D. student in Computer Science at [D
 
 I work in the field of applied cryptography. I am particularly interested in lattice-based cryptographic primitives and protocols, such as updatable encryption, fully homomorphic encryption, searchable encryption, and secure multi-party computation. I am also interested in the application of those cryptographic tools in privacy-preserving machine learning.
 
-<span style="color: red;">I actively seek opportunities in the 2025 job market and would be pleased to connect with those interested in my work. Please feel free to reach out!</span>
 
 Publications
 ======
